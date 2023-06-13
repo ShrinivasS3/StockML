@@ -1,0 +1,23 @@
+Attributes(the name of each column):
+Close - 
+The value at which the stock closed that day.
+Volume - 
+The number of shares that were traded that day or the amount of shares that exchanged hands.
+EMA 5 - 
+The Exponential Moving Average (EMA) with a period of 5.
+EMA 13 - 
+The EMA with a period of 13.
+EMA 26 - 
+The EMA with a period of 26.
+MACD - 
+The Moving Average Convergence Divergence (MACD) indicator that shows the relationship between two moving averages of a security's price.
+Signal - 
+The 9-day EMA of the MACD.
+RSI - 
+The Relative Strength Index (RSI) used by traders to assess the price momentum of a stock or other security.
+ROC - 
+The Rate-of-Change (ROC) indicator, also referred to as simply Momentum, that measures the percent change in price from one period to the next.
+Worked? - 
+Whether good returns would have been made within 7 days of buying the stock that day. 1 = Yes, 0 = No.
+Percentage Returns - 
+The maximum returns the stock gave within 7 days (7 trading days) of buying it.
